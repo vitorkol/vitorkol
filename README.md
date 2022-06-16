@@ -1,11 +1,11 @@
+[img src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/dashboard.gif" alt="Dashboard análise de dados"]
 <h3 align="center">
   Oá, este sou eu Vitor Neves e este é o meu perfil!
-  <img src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/dashboard.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by vitorkol - https://github.com/vitorkol/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/vitorkol/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&lines=Never+Stop+Learning;Data+Protection+Officer+-+DPO;Data+Analytics+-+DA;Privacidade+e+Governan%C3%A7a+de+Dados;Experi%C3%AAncia+em+an%C3%A1lise%2C+modelagem;+e+visualiza%C3%A7%C3%A3o+de+dados+em+Dashboards;Experi%C3%AAncia+em+consultas+sql+para+BI%2C+Big+Data;Machine+Learning+e+muito+mais...;7%2B+de+experi%C3%AAncia+em+T.I&font=Fira%20Code&center=true&width=440&height=45&color=green&vCenter=true&size=18"></a>
+  <a href="https://github.com/vitorkol/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&lines=Never+Stop+Learning;Data+Protection+Officer+-+DPO;Data+Analytics+-+DA;Privacidade+e+Governan%C3%A7a+de+Dados;Experi%C3%AAncia+em+an%C3%A1lise%2C+modelagem;+e+visualiza%C3%A7%C3%A3o+de+dados+em+Dashboards;Experi%C3%AAncia+em+consultas+sql+para+BI%2C+Big+Data;Machine+Learning+e+muito+mais...;7%2B+de+experi%C3%AAncia+em+T.I&font=Fira%20Code&center=true&width=450&height=50&color=green&vCenter=true&size=20"></a>
 </p>
 
 <!-- Social icons section -->
@@ -39,13 +39,13 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/vitorkol-profile-views"/></a>
 </p>
 
-## 📘 My top open source projects
+## 📘 Meus projetos abertos ao público
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/vitorkol/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/vitorkol/github-readme-streak-stats"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=vitorkol&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/vitorkol/readme-typing-svg"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=vitorkol&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/vitorkol/github-readme-streak-stats"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=vitorkol&repo=cholesterol-risk-group-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/vitorkol/readme-typing-svg"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=vitorkol&repo=decision-tree&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/vitorkol/custom-icon-badges"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin?username=vitorkol&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/vitorkol/LaTeX-Gboard-Dictionary"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=vitorkol&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/vitorkol/unicode-formatter"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=vitorkol&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
@@ -54,23 +54,6 @@
 
 <p align="left">
   <a href="https://github.com/vitorkol?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-## 📕 Top projects I've contributed to
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/vitorkol/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/Rapptz/discord.py"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="discord.py"></a>
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
-  <a href="https://github.com/nextcord/nextcord"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="282" src="https://vitorkol-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 🔥 Streak stats
@@ -85,24 +68,16 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-## 🛠️ My favorite tools
+## 🛠️ Componentes favoritos 
 
 ### 👨‍💻 Programming and markup languages
 
 <p>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.herokuapp.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.herokuapp.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Avitorkol+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
@@ -116,7 +91,7 @@
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avitorkol+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avitorkol+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+
 </p>
 
 ### 🧰 Frameworks and libraries
