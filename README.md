@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/vitorkol"><img width="32px" alt="Dev.to" title="Vitor Campos Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vitorkol"><img width="32px" alt="Linked-in" title="Linkedin" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://www.linkedin.com/in/vitorkol"><img width="32px" alt="Linked-in" title="Linkedin" src="https://www.pikpng.com/pngl/b/301-3013856_linkedin-icon-clipart.png"&logoColor=pink/></a>
 </p>
 
 <br/>
@@ -24,7 +24,7 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/vitorkol/custom-icon-badges -->
 <!-- YouTube stats - https://github.com/vitorkol/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/vitorkol/Simple-View-Counter -->
+<!-- View counter - https://github.com/vitorkol/Counter-View-Profile -->
 <!-- Star counter - https://github.com/vitorkol/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
