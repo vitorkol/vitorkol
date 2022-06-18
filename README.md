@@ -1,6 +1,6 @@
 <img src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/dashboard.gif" alt="Dashboard análise de dados"/>
 <h3 align="center">
-  Oá, este sou eu Vitor Neves e este é o meu perfil!
+  Olá, este sou eu Vitor Neves e este é o meu perfil!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
