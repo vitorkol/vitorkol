@@ -43,8 +43,8 @@
     <a href="https://github.com/vitorkol/counter-view-profile">
         <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=vitorkol&repo=counter-view-profile&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
     </a>
-    <a href="https://github.com/vitorkol/api-gera-token-jwt">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=vitorkol&repo=api-gera-token-jwt&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="api-gera-token-jwt">
+    <a href="https://github.com/vitorkol/r-studio-with-docker-compose">
+        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=vitorkol&repo=r-studio-with-docker-compose&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="r-studio-with-docker-compose">
     </a>
     <a href="https://github.com/vitorkol/cholesterol-risk-group-challenge">
         <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vitorkol&repo=cholesterol-risk-group-challenge&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-cholesterol-risk-group-challenge">
