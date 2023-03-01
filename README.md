@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/vitorkol/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=612DE6&center=true&lines=Never+Stop+Learning;Data+Protection+Officer+-+DPO;Data+Analytics+-+DA;Privacidade+e+Governan%C3%A7a+de+Dados;Experi%C3%AAncia+em+an%C3%A1lise%2C+modelagem;e+visualiza%C3%A7%C3%A3o+de+dados!;Dashboards+interativos+e+muito+mais...;Experi%C3%AAncia+em+consultas+SQL+para+BI%2C;Big+Data%2C+Machine+Learning+e+IA;%2B7+anos+de+experi%C3%AAncia+em+T.I"></a>
+  <a href="https://github.com/vitorkol/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=612DE6&center=true&lines=Never+Stop+Learning;Data+Protection+Officer+-+DPO;Data+Analytics+-+DA;Privacidade+e+Governan%C3%A7a+de+Dados;Experi%C3%AAncia+em+an%C3%A1lise%2C+modelagem;e+visualiza%C3%A7%C3%A3o+de+dados!;Dashboards+interativos+e+muito+mais...;Experi%C3%AAncia+em+consultas+SQL+para+BI%2C;Big+Data%2C+Machine+Learning+e+IA;%2B8+anos+de+experi%C3%AAncia+em+T.I"></a>
 </p>
 
 <!-- Social icons section -->
