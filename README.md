@@ -197,4 +197,4 @@ Em breve novos vídeos....
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorkol&bg_color=1F222E&color=3BEFF7&line=612DE6&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vitorkol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorkol&bg_color=1F222E&color=3BEFF7&line=612DE6&point=FFFFFF&hide_border=true)](https://github.com/vitorkol/github-readme-activity-graph)
