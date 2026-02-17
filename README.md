@@ -14,9 +14,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/vitorkol"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-twitter-75x75%5B1%5D.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/vitorkol"><img width="32px" alt="Dev.to" title="Vitor Campos Dev.to" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-dev-75x75[1].png"></a>
+  <a href="https://dev.to/vitorkol"><img width="32px" alt="Dev.to" title="Vitor Campos Dev.to" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-dev-75x75%5B1%5D.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vitorkol"><img width="32px" alt="Linked-in" title="Linkedin" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-linkedin-75x75[1].png"/></a>
+  <a href="https://www.linkedin.com/in/vitorkol"><img width="32px" alt="Linked-in" title="Linkedin" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-linkedin-75x75%5B1%5D.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/vitorkol"><img width="32px" alt="instagram" title="Instagram" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-instagram-75x75%5B1%5D.png"/></a>
 </p>
@@ -69,7 +69,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/vitorkol/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/vitorkol/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vitorkol's streak" src="https://streak-stats.demolab.com/?user=vitorkol&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vitorkol's streak" src="https://streak-stats.demolab.com/?user=vitorkol&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3BEFF7&icon_color=F8D866&hide=Jupyter%20Notebook%22%20height=%22192px%22"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
