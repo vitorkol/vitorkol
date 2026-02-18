@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/vitorkol"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-youtube-75x75%5B1%5D.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/vitorkol"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-twitter-75x75%5B1%5D.png"/></a>
+  <a href="https://x.com/vitorkol"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-X-75x75%5B1%5D.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/vitorkol"><img width="32px" alt="Dev.to" title="Vitor Campos Dev.to" src="https://github.com/vitorkol/vitorkol/blob/master/.github/img/ionicons_svg_logo-dev-75x75%5B1%5D.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
